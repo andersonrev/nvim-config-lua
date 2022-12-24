@@ -18,7 +18,7 @@ vim.opt.numberwidth = 4                         -- set number column width to 2 
 vim.opt.tabstop = 2                             -- insert 2 spaces for a tab
 vim.opt.shiftwidth = 2                          -- the number of spaces inserted for each indentation
 vim.opt.softtabstop = 2
-vim.opt.showtabline = 2                         -- always show tabs
+-- vim.opt.showtabline = 2                         -- always show tabs
 vim.opt.expandtab = true                        -- convert tabs to spaces
 
 vim.opt.termguicolors = true                    -- set term gui colors (most terminals support this)
